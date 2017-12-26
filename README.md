@@ -7,4 +7,4 @@ This repository contains 3 files:
 <li><b>Climate_Change_and_its_Effect_on _Health_Presentation.pptx:</b> The project presentation</li>
 <li><b>Climate_Change_and_its_Effect_on _Health_Report.pdf:</b> The project report</li>
 </ul>
-<b>Project Website:</b><a href=http://www.vikrambajaj.me/bigdata target="_blank">http://www.vikrambajaj.me/bigdata</a>
+<b>Project Website:</b> http://www.vikrambajaj.me/bigdata
